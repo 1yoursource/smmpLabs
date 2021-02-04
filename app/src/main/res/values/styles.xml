@@ -1,0 +1,10 @@
+<resources>
+    <style name="CustomFontStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">15pt</item>
+        <item name="android:textColor">#F8990D</item>/>
+    </style>
+</resources>
